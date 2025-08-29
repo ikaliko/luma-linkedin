@@ -11,7 +11,7 @@ A browser userscript that adds LinkedIn profile links right into the Guest List.
 Tampermonkey is a browser extension that allows you to run userscripts. Install it for your browser:
 
 - **Chrome**: [Install from Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- **Safari**: [Install from App Store](https://apps.apple.com/us/app/tampermonkey/id1482490089)
+- **Safari**: [Install from App Store](https://apps.apple.com/us/app/tampermonkey/id6738342400)
 
 ### Step 2: Install the Script
 

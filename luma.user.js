@@ -5,6 +5,7 @@
 // @description  Add LinkedIn profile links to Luma event guest lists
 // @author       You
 // @match        https://lu.ma/*
+// @match        https://luma.com*
 // @grant        none
 // ==/UserScript==
 
